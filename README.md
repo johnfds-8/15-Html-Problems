@@ -13,4 +13,4 @@
 2- Create an unordered list of three favorite books name.
 
 
-[Links](././6.Links) => Add a link to your favorite website ,with the text "Click here visit my favorite website".
+[Links](././6.Links) => Add a link to your favorite website ,with the text "Click here to visit my favorite website".

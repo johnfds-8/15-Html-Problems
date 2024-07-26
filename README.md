@@ -8,3 +8,9 @@
 [Text Formatng](././3.Text-Form) =>  Use HTML to bold,italicize and underline different parts of single paragraph of text. 
 
 [Heading](././4.Heading) =>  Create a webpage with all sex levels of heading (h1 to h6) and observe the differences in size. 
+
+[Lists](././5.Lists) => 1-Create an oderded list of three Favorite movies.
+2- Create an unordered list of three favorite books name.
+
+
+[Links](././6.Links) => Add a link to your favorite website ,with the text "Click here visit my favorite website".

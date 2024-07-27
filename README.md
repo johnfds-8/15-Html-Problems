@@ -14,3 +14,11 @@
 
 
 [Links](././6.Links) => Add a link to your favorite website ,with the text "Click here to visit my favorite website".
+
+[Image](././7.Image) => Add an image to your HTML Page. Use an online image URL for this.
+
+
+[Image Attributes](././8.Image-Attributes) => Add an image to your page with specific width and height attributes. 
+
+
+[Nested List](././9.Nested-Lists) => Create a nested list where one of the items in the ordered list and unordered list.

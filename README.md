@@ -28,3 +28,5 @@
 
 
 [11-Table Attributes](././11.Table-Attribute) => Add borders and padding to yours tables.
+
+[12-Forms](././12.Forms) =>  Create a Form with an input field for a name an email, a password ansd a submit button.

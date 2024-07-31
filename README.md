@@ -29,4 +29,14 @@
 
 [11-Table Attributes](././11.Table-Attribute) => Add borders and padding to yours tables.
 
+
 [12-Forms](././12.Forms) =>  Create a Form with an input field for a name an email, a password ansd a submit button.
+
+
+[13-Forms-Atrribute](././13.Forms-Attribute) => Add required validation to the email and password field.
+
+
+[14-Text Area](././14.Text-Area) => Add text area to your form with a label "comments".
+
+
+[15-Radio Buttons & Checkbox](././15.Radio-Checkbox) => 

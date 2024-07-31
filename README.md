@@ -39,4 +39,6 @@
 [14-Text Area](././14.Text-Area) => Add text area to your form with a label "comments".
 
 
-[15-Radio Buttons & Checkbox](././15.Radio-Checkbox) => 
+[15-Radio Buttons & Checkbox](././15.Radio-Checkbox) => Add a group of radio buttons for selecting gender (Male,Female,Others).
+
+Add a group of CheckBoxes For selecting hobbies(e.g Reading , Travling , Cooking)
